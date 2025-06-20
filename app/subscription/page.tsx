@@ -3,7 +3,7 @@ import React from 'react'
 
 const subscription = () => {
   return (
-    <div><PricingTable/></div>
+    <main><PricingTable/></main>
   )
 }
 
